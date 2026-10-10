@@ -1,0 +1,15 @@
+{
+  "name": "connecta-focus",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r --parallel dev",
+    "build": "pnpm -r build",
+    "db:migrate": "pnpm --filter @connecta-focus/server db:migrate",
+    "db:seed": "pnpm --filter @connecta-focus/server db:seed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "prettier": "^3.9.9",
+    "sharp": "^0.35.5"
+  }
+}

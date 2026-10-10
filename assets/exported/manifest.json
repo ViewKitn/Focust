@@ -1,0 +1,286 @@
+{
+  "environment": {
+    "desk": {
+      "file": "desk.png",
+      "width": 88,
+      "height": 72,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "chair-back": {
+      "file": "chair-back.png",
+      "width": 24,
+      "height": 28,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "chair-front": {
+      "file": "chair-front.png",
+      "width": 24,
+      "height": 28,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "bookshelf": {
+      "file": "bookshelf.png",
+      "width": 48,
+      "height": 56,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "goal-board": {
+      "file": "goal-board.png",
+      "width": 40,
+      "height": 28,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "summary-board": {
+      "file": "summary-board.png",
+      "width": 40,
+      "height": 28,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "sofa": {
+      "file": "sofa.png",
+      "width": 64,
+      "height": 36,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "plant": {
+      "file": "plant.png",
+      "width": 28,
+      "height": 40,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "lamp": {
+      "file": "lamp.png",
+      "width": 24,
+      "height": 48,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "tea-table": {
+      "file": "tea-table.png",
+      "width": 40,
+      "height": 28,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "window": {
+      "file": "window.png",
+      "width": 56,
+      "height": 48,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "book-cart": {
+      "file": "book-cart.png",
+      "width": 32,
+      "height": 36,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "floor": {
+      "file": "floor.png",
+      "width": 16,
+      "height": 16,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "wall": {
+      "file": "wall.png",
+      "width": 16,
+      "height": 32,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "flowers": {
+      "file": "flowers.png",
+      "width": 20,
+      "height": 24,
+      "origin": [
+        0.5,
+        1
+      ]
+    },
+    "rug": {
+      "file": "rug.png",
+      "width": 80,
+      "height": 48,
+      "origin": [
+        0.5,
+        1
+      ]
+    }
+  },
+  "characters": {
+    "preset-1": {
+      "file": "preset-1.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "feet": [
+        16,
+        31
+      ],
+      "animations": {
+        "down": [
+          0,
+          1
+        ],
+        "left": [
+          2,
+          3
+        ],
+        "right": [
+          4,
+          5
+        ],
+        "up": [
+          6,
+          7
+        ],
+        "sitDown": [
+          8
+        ],
+        "sitUp": [
+          9
+        ]
+      }
+    },
+    "preset-2": {
+      "file": "preset-2.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "feet": [
+        16,
+        31
+      ],
+      "animations": {
+        "down": [
+          0,
+          1
+        ],
+        "left": [
+          2,
+          3
+        ],
+        "right": [
+          4,
+          5
+        ],
+        "up": [
+          6,
+          7
+        ],
+        "sitDown": [
+          8
+        ],
+        "sitUp": [
+          9
+        ]
+      }
+    },
+    "preset-3": {
+      "file": "preset-3.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "feet": [
+        16,
+        31
+      ],
+      "animations": {
+        "down": [
+          0,
+          1
+        ],
+        "left": [
+          2,
+          3
+        ],
+        "right": [
+          4,
+          5
+        ],
+        "up": [
+          6,
+          7
+        ],
+        "sitDown": [
+          8
+        ],
+        "sitUp": [
+          9
+        ]
+      }
+    },
+    "preset-4": {
+      "file": "preset-4.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "feet": [
+        16,
+        31
+      ],
+      "animations": {
+        "down": [
+          0,
+          1
+        ],
+        "left": [
+          2,
+          3
+        ],
+        "right": [
+          4,
+          5
+        ],
+        "up": [
+          6,
+          7
+        ],
+        "sitDown": [
+          8
+        ],
+        "sitUp": [
+          9
+        ]
+      }
+    }
+  },
+  "grid": 16,
+  "scale": 2,
+  "anchor": "bottom-center",
+  "source": "Built-in image_gen; original source PNGs in assets/source"
+}
